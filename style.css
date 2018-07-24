@@ -1,0 +1,54 @@
+.head{
+    background-color: white;
+    color:gray;
+    font-size: 12px;
+    display: inline;
+    font-family: "Muli", sans-serif;
+    
+}
+#print{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 6px 35px;
+    border-radius: 4px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Patua One', cursive;
+    right: 600;
+}
+
+#big_black_box {
+    background-color: rgb(54, 44, 44);
+    padding-bottom: 100px;
+    text-align: center;
+    font-family: "Muli", sans-serif;
+}
+#mongo {
+    font-size: 15px;
+    font-family: "Muli", sans-serif;
+    color: whitesmoke;
+    padding-top: 50px;
+}
+#mongo_description{
+    font-size: 30px;
+    color: whitesmoke;
+    
+}
+.button{
+    background-color:#4CAF50;
+    border: none;
+    border-radius: 8px;
+    color: whitesmoke;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+#login{
+    background-color: whitesmoke;
+    color: #4CaF50;
+}
